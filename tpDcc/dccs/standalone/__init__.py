@@ -8,7 +8,7 @@ Initialization module for tpDcc.dccs.standalone
 from __future__ import print_function, division, absolute_import
 
 import os
-import logging
+import logging.config
 
 # =================================================================================
 
